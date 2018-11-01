@@ -1,0 +1,7 @@
+name: mruby-4024
+description: Foo class
+author: pyama86
+website: https://github.com/pyama86/mruby-4024
+protocol: git
+repository: https://github.com/pyama86/mruby-4024.git
+license: MIT
